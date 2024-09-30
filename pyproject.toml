@@ -212,7 +212,7 @@ readme = "README.md"
 python = ">=3.11,<3.13"
 snowflake-connector-python = { extras = ["pandas"], version = "^3.12.1" }
 pandas = "^2.2.2"
-whylogs = "^1.4.5"
+whylogs = "^1.4.8"
 numpy = "1.26.0"
 
 
