@@ -213,7 +213,7 @@ python = ">=3.11,<3.13"
 snowflake-connector-python = { extras = ["pandas"], version = "^3.12.1" }
 pandas = "^2.2.2"
 whylogs = "^1.4.5"
-numpy = "1.26.0"
+numpy = "2.1.2"
 
 
 [tool.poetry.group.dev.dependencies]
